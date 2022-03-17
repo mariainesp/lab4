@@ -1,4 +1,3 @@
-yaml
 name: action1
 on: [push]
 jobs:
